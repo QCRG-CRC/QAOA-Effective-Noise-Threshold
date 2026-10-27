@@ -1,0 +1,10 @@
+# Environment for code/04_hardware (hardware runs and the hardware-section analysis, Figure 8).
+# Install on top of requirements-analysis.txt.
+# qiskit-ibm-runtime is pinned because Table 1 and r_dev come from the FakeMarrakesh calibration
+# snapshot bundled with this version (calibration of 2025-02-26); other versions may ship a
+# different snapshot. The calibration used is also exported to data/hardware/ibm_marrakesh_calibration_*.csv.
+# The versions of the original hardware runs were not recorded.
+qiskit==2.5.2
+qiskit-ibm-runtime==0.50.0
+qiskit-aer==0.18.0
+networkx==3.4.2

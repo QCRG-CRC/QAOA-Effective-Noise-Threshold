@@ -1,0 +1,361 @@
+Noise Type,Graph Structure,Node,QAOA Layers,Threshold
+AmplitudeDamping,Path,6,1.0,0.23581504912397758
+AmplitudeDamping,Path,6,2.0,0.1802988432679564
+AmplitudeDamping,Path,6,3.0,0.1488552191245361
+AmplitudeDamping,Path,6,4.0,0.129866325709722
+AmplitudeDamping,Path,6,5.0,0.11788780739472467
+AmplitudeDamping,Path,6,6.0,0.11015355556675394
+AmplitudeDamping,Path,6,7.0,0.10515544598939316
+AmplitudeDamping,Path,6,8.0,0.10202013567424839
+AmplitudeDamping,Path,6,9.0,0.10021548417141955
+AmplitudeDamping,Path,6,10.0,0.09940314476661515
+AmplitudeDamping,Path,9,1.0,0.17592419643618468
+AmplitudeDamping,Path,9,2.0,0.17588824477873283
+AmplitudeDamping,Path,9,3.0,0.17180255321640614
+AmplitudeDamping,Path,9,4.0,0.16455381827635962
+AmplitudeDamping,Path,9,5.0,0.1549757053411386
+AmplitudeDamping,Path,9,6.0,0.1438172692671268
+AmplitudeDamping,Path,9,7.0,0.1317256001137863
+AmplitudeDamping,Path,9,8.0,0.11923944898992175
+AmplitudeDamping,Path,9,9.0,0.10679084584989602
+AmplitudeDamping,Path,9,10.0,0.09471214778736813
+AmplitudeDamping,Path,12,1.0,0.21502325017606863
+AmplitudeDamping,Path,12,2.0,0.18932500518663145
+AmplitudeDamping,Path,12,3.0,0.16841845559758375
+AmplitudeDamping,Path,12,4.0,0.15130681283088723
+AmplitudeDamping,Path,12,5.0,0.13722147744740998
+AmplitudeDamping,Path,12,6.0,0.12556647434594162
+AmplitudeDamping,Path,12,7.0,0.11587705901951953
+AmplitudeDamping,Path,12,8.0,0.10778875151609911
+AmplitudeDamping,Path,12,9.0,0.10101407128022473
+AmplitudeDamping,Path,12,10.0,0.09532498030612115
+AmplitudeDamping,Path,18,1.0,0.15127298741509979
+AmplitudeDamping,Path,18,2.0,0.14305281187707755
+AmplitudeDamping,Path,18,3.0,0.13455568523340855
+AmplitudeDamping,Path,18,4.0,0.1258378719470366
+AmplitudeDamping,Path,18,5.0,0.11695893471697841
+AmplitudeDamping,Path,18,6.0,0.10798120235026595
+AmplitudeDamping,Path,18,7.0,0.09896916759243962
+AmplitudeDamping,Path,18,8.0,0.08998881787796781
+AmplitudeDamping,Path,18,9.0,0.08110690308884251
+AmplitudeDamping,Path,18,10.0,0.07239014543541848
+AmplitudeDamping,Complete bipartite,6,1.0,0.300298866614205
+AmplitudeDamping,Complete bipartite,6,2.0,0.23574146428434176
+AmplitudeDamping,Complete bipartite,6,3.0,0.18838689540921685
+AmplitudeDamping,Complete bipartite,6,4.0,0.15359065522854187
+AmplitudeDamping,Complete bipartite,6,5.0,0.12804939759542303
+AmplitudeDamping,Complete bipartite,6,6.0,0.10941451192693782
+AmplitudeDamping,Complete bipartite,6,7.0,0.09602174294906027
+AmplitudeDamping,Complete bipartite,6,8.0,0.08670236671382306
+AmplitudeDamping,Complete bipartite,6,9.0,0.08065204568692234
+AmplitudeDamping,Complete bipartite,6,10.0,0.07734088637360455
+AmplitudeDamping,Complete bipartite,9,1.0,0.1656005643522742
+AmplitudeDamping,Complete bipartite,9,2.0,0.1599872497939622
+AmplitudeDamping,Complete bipartite,9,3.0,0.1552334640100556
+AmplitudeDamping,Complete bipartite,9,4.0,0.15136613400884655
+AmplitudeDamping,Complete bipartite,9,5.0,0.14843384772912607
+AmplitudeDamping,Complete bipartite,9,6.0,0.14651352010581065
+AmplitudeDamping,Complete bipartite,9,7.0,0.14572019249636387
+AmplitudeDamping,Complete bipartite,9,8.0,0.14622166844769469
+AmplitudeDamping,Complete bipartite,9,9.0,0.14826079210117546
+AmplitudeDamping,Complete bipartite,9,10.0,0.15219011244722971
+AmplitudeDamping,Complete bipartite,12,1.0,0.18733359366945948
+AmplitudeDamping,Complete bipartite,12,2.0,0.13979704723493389
+AmplitudeDamping,Complete bipartite,12,3.0,0.10576328715487705
+AmplitudeDamping,Complete bipartite,12,4.0,0.08134848751295021
+AmplitudeDamping,Complete bipartite,12,5.0,0.06385452183394862
+AmplitudeDamping,Complete bipartite,12,6.0,0.0514248353769579
+AmplitudeDamping,Complete bipartite,12,7.0,0.042824736971707605
+AmplitudeDamping,Complete bipartite,12,8.0,0.037334671269755634
+AmplitudeDamping,Complete bipartite,12,9.0,0.034812398296914036
+AmplitudeDamping,Complete bipartite,12,10.0,0.036271424858869764
+AmplitudeDamping,Complete bipartite,18,1.0,0.11806634784148355
+AmplitudeDamping,Complete bipartite,18,2.0,0.09877176268475092
+AmplitudeDamping,Complete bipartite,18,3.0,0.08359812448165181
+AmplitudeDamping,Complete bipartite,18,4.0,0.07171773364969701
+AmplitudeDamping,Complete bipartite,18,5.0,0.06251321622061334
+AmplitudeDamping,Complete bipartite,18,6.0,0.05554359273491367
+AmplitudeDamping,Complete bipartite,18,7.0,0.050531142463375714
+AmplitudeDamping,Complete bipartite,18,8.0,0.04737943539574052
+AmplitudeDamping,Complete bipartite,18,9.0,0.04625699360876631
+AmplitudeDamping,Complete bipartite,18,10.0,0.047867862648736964
+AmplitudeDamping,ER random,6,1.0,0.26000371231107955
+AmplitudeDamping,ER random,6,2.0,0.18680040645838686
+AmplitudeDamping,ER random,6,3.0,0.14036003667367913
+AmplitudeDamping,ER random,6,4.0,0.11017273263377209
+AmplitudeDamping,ER random,6,5.0,0.09012226733786605
+AmplitudeDamping,ER random,6,6.0,0.07657490350271466
+AmplitudeDamping,ER random,6,7.0,0.06732564002982816
+AmplitudeDamping,ER random,6,8.0,0.0610079759254147
+AmplitudeDamping,ER random,6,9.0,0.056757736097701135
+AmplitudeDamping,ER random,6,10.0,0.054018220888359135
+AmplitudeDamping,ER random,9,1.0,0.15815237402354165
+AmplitudeDamping,ER random,9,2.0,0.125014143889635
+AmplitudeDamping,ER random,9,3.0,0.10048437371447881
+AmplitudeDamping,ER random,9,4.0,0.08238470307928111
+AmplitudeDamping,ER random,9,5.0,0.06917561150429964
+AmplitudeDamping,ER random,9,6.0,0.05980491167651765
+AmplitudeDamping,ER random,9,7.0,0.05362479444752355
+AmplitudeDamping,ER random,9,8.0,0.050388785149998117
+AmplitudeDamping,ER random,9,9.0,0.050390181494316705
+AmplitudeDamping,ER random,9,10.0,0.05496843143145747
+AmplitudeDamping,ER random,12,1.0,0.18210817229188184
+AmplitudeDamping,ER random,12,2.0,0.1521862534174451
+AmplitudeDamping,ER random,12,3.0,0.13075626971423546
+AmplitudeDamping,ER random,12,4.0,0.1159772066756868
+AmplitudeDamping,ER random,12,5.0,0.1066589164414322
+AmplitudeDamping,ER random,12,6.0,0.10215139317969675
+AmplitudeDamping,ER random,12,7.0,0.10230685510363802
+AmplitudeDamping,ER random,12,8.0,0.10751918204418935
+AmplitudeDamping,ER random,12,9.0,0.11886155723019648
+AmplitudeDamping,ER random,12,10.0,0.13836740444276058
+AmplitudeDamping,ER random,18,1.0,0.1542453474735018
+AmplitudeDamping,ER random,18,2.0,0.15058792535843776
+AmplitudeDamping,ER random,18,3.0,0.14757310871343318
+AmplitudeDamping,ER random,18,4.0,0.14521916295463821
+AmplitudeDamping,ER random,18,5.0,0.14355516198767485
+AmplitudeDamping,ER random,18,6.0,0.142623191862787
+AmplitudeDamping,ER random,18,7.0,0.14248125607563134
+AmplitudeDamping,ER random,18,8.0,0.14320711633266017
+AmplitudeDamping,ER random,18,9.0,0.1449033904244492
+AmplitudeDamping,ER random,18,10.0,0.14770435236257343
+BitFlip,Path,6,1.0,0.09200258690045553
+BitFlip,Path,6,2.0,0.10812293116201552
+BitFlip,Path,6,3.0,0.10736805827469789
+BitFlip,Path,6,4.0,0.10638355382330518
+BitFlip,Path,6,5.0,0.10534821800897753
+BitFlip,Path,6,6.0,0.10429897051912476
+BitFlip,Path,6,7.0,0.10324822109622205
+BitFlip,Path,6,8.0,0.10220126763572396
+BitFlip,Path,6,9.0,0.10116071739578258
+BitFlip,Path,6,10.0,0.10012797513330977
+BitFlip,Path,9,1.0,0.13068178162960212
+BitFlip,Path,9,2.0,0.2167977350391128
+BitFlip,Path,9,3.0,0.2627029358484146
+BitFlip,Path,9,4.0,0.2736939651005508
+BitFlip,Path,9,5.0,0.2603367036788963
+BitFlip,Path,9,6.0,0.23290431835275466
+BitFlip,Path,9,7.0,0.1993514325315238
+BitFlip,Path,9,8.0,0.16502920064127935
+BitFlip,Path,9,9.0,0.13309931889763843
+BitFlip,Path,9,10.0,0.10512666473072606
+BitFlip,Path,12,1.0,0.16049680932514407
+BitFlip,Path,12,2.0,0.2439556893061572
+BitFlip,Path,12,3.0,0.2778620839941952
+BitFlip,Path,12,4.0,0.27597606266209973
+BitFlip,Path,12,5.0,0.2529752478869307
+BitFlip,Path,12,6.0,0.22005499882644314
+BitFlip,Path,12,7.0,0.18453139733450838
+BitFlip,Path,12,8.0,0.15063868220865817
+BitFlip,Path,12,9.0,0.1204851719430073
+BitFlip,Path,12,10.0,0.0948429146954828
+BitFlip,Path,18,1.0,0.1333225087411725
+BitFlip,Path,18,2.0,0.1462732193192227
+BitFlip,Path,18,3.0,0.15323536418292683
+BitFlip,Path,18,4.0,0.1551563526207609
+BitFlip,Path,18,5.0,0.1530259993273543
+BitFlip,Path,18,6.0,0.14778984673372322
+BitFlip,Path,18,7.0,0.14029932788481658
+BitFlip,Path,18,8.0,0.13128799350910159
+BitFlip,Path,18,9.0,0.12136508407983339
+BitFlip,Path,18,10.0,0.11101995745231198
+BitFlip,Complete bipartite,6,1.0,0.40354929303895193
+BitFlip,Complete bipartite,6,2.0,0.31713698846547667
+BitFlip,Complete bipartite,6,3.0,0.2603690337924761
+BitFlip,Complete bipartite,6,4.0,0.22032515402336786
+BitFlip,Complete bipartite,6,5.0,0.19049311453887363
+BitFlip,Complete bipartite,6,6.0,0.16730931825515438
+BitFlip,Complete bipartite,6,7.0,0.14868711986336175
+BitFlip,Complete bipartite,6,8.0,0.13333395938249545
+BitFlip,Complete bipartite,6,9.0,0.12041036195786382
+BitFlip,Complete bipartite,6,10.0,0.10934870899779806
+BitFlip,Complete bipartite,9,1.0,0.29007123901840337
+BitFlip,Complete bipartite,9,2.0,0.27841167905412106
+BitFlip,Complete bipartite,9,3.0,0.2656760443207939
+BitFlip,Complete bipartite,9,4.0,0.2517712839714109
+BitFlip,Complete bipartite,9,5.0,0.23661011056472042
+BitFlip,Complete bipartite,9,6.0,0.220121536011929
+BitFlip,Complete bipartite,9,7.0,0.20226749019497797
+BitFlip,Complete bipartite,9,8.0,0.18306769449599453
+BitFlip,Complete bipartite,9,9.0,0.16263446627973316
+BitFlip,Complete bipartite,9,10.0,0.1412166845118239
+BitFlip,Complete bipartite,12,1.0,0.30482184724136224
+BitFlip,Complete bipartite,12,2.0,0.28967048540332263
+BitFlip,Complete bipartite,12,3.0,0.2708966848456032
+BitFlip,Complete bipartite,12,4.0,0.2478068079597677
+BitFlip,Complete bipartite,12,5.0,0.21980507006121658
+BitFlip,Complete bipartite,12,6.0,0.18674690537515148
+BitFlip,Complete bipartite,12,7.0,0.14957044589625965
+BitFlip,Complete bipartite,12,8.0,0.11097651914063636
+BitFlip,Complete bipartite,12,9.0,0.07527038564232345
+BitFlip,Complete bipartite,12,10.0,0.04655488785952591
+BitFlip,Complete bipartite,18,1.0,0.2156521127574109
+BitFlip,Complete bipartite,18,2.0,0.20924145293619772
+BitFlip,Complete bipartite,18,3.0,0.20045525761070512
+BitFlip,Complete bipartite,18,4.0,0.18897986245521137
+BitFlip,Complete bipartite,18,5.0,0.17454716139497017
+BitFlip,Complete bipartite,18,6.0,0.15700951145434142
+BitFlip,Complete bipartite,18,7.0,0.13645962277401244
+BitFlip,Complete bipartite,18,8.0,0.11339788066432442
+BitFlip,Complete bipartite,18,9.0,0.08891164000068974
+BitFlip,Complete bipartite,18,10.0,0.06474952053900632
+BitFlip,ER random,6,1.0,0.13874641283797723
+BitFlip,ER random,6,2.0,0.15132420273444483
+BitFlip,ER random,6,3.0,0.1542097417290741
+BitFlip,ER random,6,4.0,0.14995625232198947
+BitFlip,ER random,6,5.0,0.14086060551248514
+BitFlip,ER random,6,6.0,0.12882507205815383
+BitFlip,ER random,6,7.0,0.11532808615856086
+BitFlip,ER random,6,8.0,0.10145508833355442
+BitFlip,ER random,6,9.0,0.08795680690505084
+BitFlip,ER random,6,10.0,0.07531538694321058
+BitFlip,ER random,9,1.0,0.1914443263272294
+BitFlip,ER random,9,2.0,0.17108555028484262
+BitFlip,ER random,9,3.0,0.15127074443413657
+BitFlip,ER random,9,4.0,0.13254089608550151
+BitFlip,ER random,9,5.0,0.11522198719144264
+BitFlip,ER random,9,6.0,0.09948156727976278
+BitFlip,ER random,9,7.0,0.08537365429175871
+BitFlip,ER random,9,8.0,0.07287371068990789
+BitFlip,ER random,9,9.0,0.06190537779358613
+BitFlip,ER random,9,10.0,0.05236050726865324
+BitFlip,ER random,12,1.0,0.11156710655172739
+BitFlip,ER random,12,2.0,0.09181644365572666
+BitFlip,ER random,12,3.0,0.077153698485138
+BitFlip,ER random,12,4.0,0.06652794805312745
+BitFlip,ER random,12,5.0,0.05924348354901225
+BitFlip,ER random,12,6.0,0.054932494464789795
+BitFlip,ER random,12,7.0,0.05359058101359957
+BitFlip,ER random,12,8.0,0.05571944375802977
+BitFlip,ER random,12,9.0,0.06268873789261087
+BitFlip,ER random,12,10.0,0.07759935170679239
+BitFlip,ER random,18,1.0,0.013846894032462542
+BitFlip,ER random,18,2.0,0.019822176674851748
+BitFlip,ER random,18,3.0,0.023267545187242073
+BitFlip,ER random,18,4.0,0.023769327122222537
+BitFlip,ER random,18,5.0,0.021726840917267294
+BitFlip,ER random,18,6.0,0.01802354858881231
+BitFlip,ER random,18,7.0,0.013659029515728598
+BitFlip,ER random,18,8.0,0.009468388683850602
+BitFlip,ER random,18,9.0,0.005981079475152384
+BitFlip,ER random,18,10.0,0.0034090215719392463
+Depolarization,Path,6,1.0,0.06477411967852027
+Depolarization,Path,6,2.0,0.17091523798904493
+Depolarization,Path,6,3.0,0.1705398962048171
+Depolarization,Path,6,4.0,0.15298925059716165
+Depolarization,Path,6,5.0,0.13261146202520407
+Depolarization,Path,6,6.0,0.11318946700714647
+Depolarization,Path,6,7.0,0.09581853806665927
+Depolarization,Path,6,8.0,0.08071474638897316
+Depolarization,Path,6,9.0,0.0677758825478507
+Depolarization,Path,6,10.0,0.05678771506084782
+Depolarization,Path,9,1.0,0.22927976405984204
+Depolarization,Path,9,2.0,0.1984851815558967
+Depolarization,Path,9,3.0,0.16845768269102443
+Depolarization,Path,9,4.0,0.14223060074677357
+Depolarization,Path,9,5.0,0.11983140213430485
+Depolarization,Path,9,6.0,0.10085092677083694
+Depolarization,Path,9,7.0,0.08482409317555666
+Depolarization,Path,9,8.0,0.07131630423140646
+Depolarization,Path,9,9.0,0.05994386810995227
+Depolarization,Path,9,10.0,0.0503756715732366
+Depolarization,Path,12,1.0,0.1497417900944598
+Depolarization,Path,12,2.0,0.1256769446751929
+Depolarization,Path,12,3.0,0.10911105820479096
+Depolarization,Path,12,4.0,0.09581261011511066
+Depolarization,Path,12,5.0,0.08457109867078877
+Depolarization,Path,12,6.0,0.07485634667881513
+Depolarization,Path,12,7.0,0.06636798204511096
+Depolarization,Path,12,8.0,0.058905521394308304
+Depolarization,Path,12,9.0,0.05232061338642722
+Depolarization,Path,12,10.0,0.046496213291781975
+Depolarization,Path,18,1.0,0.16180031150368102
+Depolarization,Path,18,2.0,0.10994140905397548
+Depolarization,Path,18,3.0,0.08494356561204254
+Depolarization,Path,18,4.0,0.07035463119677844
+Depolarization,Path,18,5.0,0.0606780908221646
+Depolarization,Path,18,6.0,0.053668929385936565
+Depolarization,Path,18,7.0,0.04826547588710964
+Depolarization,Path,18,8.0,0.043907613239782886
+Depolarization,Path,18,9.0,0.04027387982362946
+Depolarization,Path,18,10.0,0.03716706488961324
+Depolarization,Complete bipartite,6,1.0,0.21861094467108855
+Depolarization,Complete bipartite,6,2.0,0.179986098005393
+Depolarization,Complete bipartite,6,3.0,0.14943763391955764
+Depolarization,Complete bipartite,6,4.0,0.12514214431031428
+Depolarization,Complete bipartite,6,5.0,0.10571007449582145
+Depolarization,Complete bipartite,6,6.0,0.09007856260590257
+Depolarization,Complete bipartite,6,7.0,0.07743150322725283
+Depolarization,Complete bipartite,6,8.0,0.06713976597902784
+Depolarization,Complete bipartite,6,9.0,0.058716367543187604
+Depolarization,Complete bipartite,6,10.0,0.05178276304631997
+Depolarization,Complete bipartite,9,1.0,0.20449907656190514
+Depolarization,Complete bipartite,9,2.0,0.1279230031772415
+Depolarization,Complete bipartite,9,3.0,0.09124505670739047
+Depolarization,Complete bipartite,9,4.0,0.07088156069628426
+Depolarization,Complete bipartite,9,5.0,0.05860020646510566
+Depolarization,Complete bipartite,9,6.0,0.05086464084902839
+Depolarization,Complete bipartite,9,7.0,0.04594860880860088
+Depolarization,Complete bipartite,9,8.0,0.04293758476319589
+Depolarization,Complete bipartite,9,9.0,0.04132474911326896
+Depolarization,Complete bipartite,9,10.0,0.040828954145463024
+Depolarization,Complete bipartite,12,1.0,0.192024303913741
+Depolarization,Complete bipartite,12,2.0,0.11413657813946847
+Depolarization,Complete bipartite,12,3.0,0.07628143194131691
+Depolarization,Complete bipartite,12,4.0,0.056182730380909124
+Depolarization,Complete bipartite,12,5.0,0.044664584369956815
+Depolarization,Complete bipartite,12,6.0,0.03764331328743404
+Depolarization,Complete bipartite,12,7.0,0.03315948892693921
+Depolarization,Complete bipartite,12,8.0,0.030204792303574143
+Depolarization,Complete bipartite,12,9.0,0.02822663776416415
+Depolarization,Complete bipartite,12,10.0,0.026904971286577043
+Depolarization,Complete bipartite,18,1.0,0.0819875557537757
+Depolarization,Complete bipartite,18,2.0,0.05554790826247724
+Depolarization,Complete bipartite,18,3.0,0.04027739027883122
+Depolarization,Complete bipartite,18,4.0,0.030872281068244772
+Depolarization,Complete bipartite,18,5.0,0.024734472897050126
+Depolarization,Complete bipartite,18,6.0,0.020519951790547115
+Depolarization,Complete bipartite,18,7.0,0.017495877546100522
+Depolarization,Complete bipartite,18,8.0,0.015242465309498769
+Depolarization,Complete bipartite,18,9.0,0.013508143737015093
+Depolarization,Complete bipartite,18,10.0,0.01213587379827325
+Depolarization,ER random,6,1.0,0.4182104313589034
+Depolarization,ER random,6,2.0,0.244500088223839
+Depolarization,ER random,6,3.0,0.15313717691089695
+Depolarization,ER random,6,4.0,0.10374868197837231
+Depolarization,ER random,6,5.0,0.07648394055269088
+Depolarization,ER random,6,6.0,0.06138813820667078
+Depolarization,ER random,6,7.0,0.053376026386850545
+Depolarization,ER random,6,8.0,0.049819857425269
+Depolarization,ER random,6,9.0,0.04937394064614259
+Depolarization,ER random,6,10.0,0.05139392622835671
+Depolarization,ER random,9,1.0,0.20455174178938182
+Depolarization,ER random,9,2.0,0.09412306851116956
+Depolarization,ER random,9,3.0,0.07534171165588247
+Depolarization,ER random,9,4.0,0.06407756335922524
+Depolarization,ER random,9,5.0,0.05552386871356663
+Depolarization,ER random,9,6.0,0.04850565786407952
+Depolarization,ER random,9,7.0,0.042556391735573476
+Depolarization,ER random,9,8.0,0.03743128718252517
+Depolarization,ER random,9,9.0,0.03297664551125009
+Depolarization,ER random,9,10.0,0.02908399080830328
+Depolarization,ER random,12,1.0,0.22557912277098052
+Depolarization,ER random,12,2.0,0.08119574380792116
+Depolarization,ER random,12,3.0,0.05766586107054315
+Depolarization,ER random,12,4.0,0.049218124471450915
+Depolarization,ER random,12,5.0,0.04509857845975992
+Depolarization,ER random,12,6.0,0.04276463594722473
+Depolarization,ER random,12,7.0,0.04133121604007214
+Depolarization,ER random,12,8.0,0.040413815056928495
+Depolarization,ER random,12,9.0,0.03981951114720313
+Depolarization,ER random,12,10.0,0.03944118110687342
+Depolarization,ER random,18,1.0,0.015495955785274948
+Depolarization,ER random,18,2.0,0.01690081881832709
+Depolarization,ER random,18,3.0,0.01689999129695232
+Depolarization,ER random,18,4.0,0.01600502435324409
+Depolarization,ER random,18,5.0,0.014599792649469714
+Depolarization,ER random,18,6.0,0.012957057710438397
+Depolarization,ER random,18,7.0,0.011260177299352005
+Depolarization,ER random,18,8.0,0.009624771152100309
+Depolarization,ER random,18,9.0,0.008117529771601932
+Depolarization,ER random,18,10.0,0.006771288430610607

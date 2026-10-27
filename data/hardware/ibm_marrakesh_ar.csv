@@ -1,0 +1,11 @@
+Backend,Graph ID,Node,Structure,QAOA Layers,Approx. Ratio
+ibm_marrakesh,80,18,ER random,1,0.72
+ibm_marrakesh,80,18,ER random,2,0.85
+ibm_marrakesh,80,18,ER random,3,0.75
+ibm_marrakesh,80,18,ER random,4,0.82
+ibm_marrakesh,80,18,ER random,5,0.82
+ibm_marrakesh,80,18,ER random,6,0.77
+ibm_marrakesh,80,18,ER random,7,0.82
+ibm_marrakesh,80,18,ER random,8,0.72
+ibm_marrakesh,80,18,ER random,9,0.67
+ibm_marrakesh,80,18,ER random,10,0.75

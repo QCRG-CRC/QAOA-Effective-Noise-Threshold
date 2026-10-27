@@ -1,0 +1,12 @@
+# Environment for code/02_compile_results, code/03_fit_thresholds and code/05_figures.
+# These are the versions the repository scripts were verified with (Python 3.13).
+# The original notebook ran under Python 3.12.3; its library versions were not recorded.
+# pandas must stay below 3.0: Figure 6 relabels a column with Series.replace(..., inplace=True),
+# which pandas 3 (copy-on-write) silently ignores, so the legend would show bare layer numbers.
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+networkx==3.4.2  # Figure 2

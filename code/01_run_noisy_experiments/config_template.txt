@@ -1,0 +1,28 @@
+# Configuration of one block of the noisy QAOA experiment.
+# Pass this file to run_noisy_qaoa.py.  The output filename is generated from it,
+# so the file itself documents what was run.  Relative paths are relative to this file.
+# To split work across machines, give each machine a copy with a different
+# subset of `rates` and/or `layers`; seeds do not depend on the subset.
+
+[instance]
+graph_table = ../../data/graphs/graph_instances.csv   # columns include Graph_ID, Node, Brute Force, Adjacency Matrix
+graph_id    = 91
+structure   = path                           # path | bipartite | er
+noise       = depol                          # bitflip | depol | ampdamp
+
+[grid]
+rates    = 1e-4, 5e-4, 1e-3, 5e-3, 1e-2, 5e-2, 1e-1, 5e-1   # subset of the fixed ladder in common/runtag.py
+layers   = 1-10                                              # inclusive range, within 1..10
+reps     = 10                                                # replicates per (rate, layers), numbered 0..reps-1
+seedbase = 0                                                 # 0 for path and ER graphs, 800 for complete bipartite graphs (original protocol)
+
+[simulation]
+trajectories     = 1024    # noisy trajectories per energy evaluation
+shots            = 16384   # shots in the final sampling
+max_iterations   = 250     # COBYLA iterations
+init_angle_bound = 0.125   # initial angles drawn uniformly from [-b*pi, b*pi]
+target           =         # optional CUDA-Q target; leave empty to use the CUDA-Q default.  Must apply noise
+                           # (the script checks this and aborts otherwise)
+
+[output]
+out_dir = ../../data/runs

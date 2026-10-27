@@ -1,0 +1,32 @@
+,value
+calibration source,snapshot (FakeMarrakesh)
+calibration timestamp,2025-02-26 14:52:45-05:00
+two-qubit gate,cz
+couplers used / excluded,163 / 13
+r_dev median,0.0032342573675404607
+r_dev Q1,0.0024368120244651903
+r_dev Q3,0.004253432493803555
+one-qubit error median,0.00023048834902833964
+configs with r*_worst > r_dev (median),36 of 36
+configs with r*_worst > r_dev (Q3),35 of 36
+"min margin, Amplitude damping (median r_dev)",44.05377800344421
+"depth of min margin, Amplitude damping",7
+"min margin, Amplitude damping (Q3 r_dev)",33.49794696006096
+"midpoint AR, Amplitude damping",0.468112878805957
+"min margin, Depolarising (median r_dev)",2.093614595600327
+"depth of min margin, Depolarising",10
+"min margin, Depolarising (Q3 r_dev)",1.5919585982556637
+"midpoint AR, Depolarising",0.8969935763743663
+"min margin, Bit-flip (median r_dev)",1.0540353424414215
+"depth of min margin, Bit-flip",10
+"min margin, Bit-flip (Q3 r_dev)",0.8014754147163493
+"midpoint AR, Bit-flip",0.9074573869128929
+floor mean,0.8151666666666667
+floor sd,0.06196102050914669
+low-noise reference AR,0.9687222222256666
+hardware AR mean,0.7689999999999999
+hardware AR min,0.67
+hardware AR max,0.85
+hardware mean p1-7,0.7928571428571428
+hardware mean p8-10,0.7133333333333334
+hardware depths inside floor band,5 of 10

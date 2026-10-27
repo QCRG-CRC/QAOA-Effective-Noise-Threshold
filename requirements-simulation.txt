@@ -1,0 +1,6 @@
+# Environment for code/01_run_noisy_experiments (noisy QAOA simulations).
+# The experiments used CUDA-Q 0.12.0 or later on NVIDIA GPUs (RTX 3070, RTX 4080, RTX 4090).
+# run_noisy_qaoa.py was verified end to end with cudaq 0.12.0 on the density-matrix-cpu target.
+cudaq>=0.12.0
+numpy
+pandas
