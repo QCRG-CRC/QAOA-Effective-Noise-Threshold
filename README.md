@@ -1,5 +1,7 @@
 # Code for the noisy QAOA experiments
 
+Code and data for the paper available at https://arxiv.org/abs/2610.36597v1. The paper characterises QAOA performance on MaxCut by an effective noise threshold rather than by the choice of circuit depth alone. Noisy simulations of 12 graphs under three noise channels, with noise acting during both training and sampling, are fitted with logistic surfaces of the approximation ratio over noise rate and depth, from which a threshold noise rate r*(p) is extracted for each depth. The thresholds are then compared with the gate errors of the ibm_marrakesh device in a hardware run.
+
 ```
 code/
   common/runtag.py                    filename tags, columns, seed rule (imported by all scripts)
@@ -129,3 +131,7 @@ The defaults of `run_QAOA()` in `qaoa_hardware.py` are the settings of the Metho
 hardware, 125 COBYLA iterations, 4096 estimator shots, 16384 sampler shots, optimisation level 3, resilience level 0). `run_hardware.py`
 uses these defaults unless an option overrides them, and records the AR as the cut of the most frequent bitstring, ties broken towards
 the larger cut.
+
+## Use of a large language model
+
+Claude Sonnet, a large language model by Anthropic, was used to reorganise the original code into a repository structure that follows GitHub best practice and to improve the comprehensibility of the code. It was not used to design or run the experiments, nor to produce the results. All changes were reviewed by the authors.
